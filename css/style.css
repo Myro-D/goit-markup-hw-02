@@ -95,3 +95,12 @@ address {
   letter-spacing: 0.02em;
   color: var(--addres-link-color);
 }
+.title-sec-third {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--list-title-color);
+}
