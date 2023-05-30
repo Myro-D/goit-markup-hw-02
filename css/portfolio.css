@@ -1,0 +1,7 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--bgc-body);
+}
+:root {
+  --bgc-body: #434455;
+}

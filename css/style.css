@@ -5,9 +5,9 @@ body {
 }
 :root {
   --logo-color: #4d5ae5;
-  --nev-list-item-color: #2e2f42;
   --addres-link-color: #434455;
   --list-title-color: #2e2f42;
+  --title-color: #f4f4fd;
 }
 .main-title {
   font-family: "Raleway", sans-serif;
@@ -33,7 +33,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: var(--nev-list-item-color);
+  color: var(--list-title-color);
 }
 .nav-list-item:hover,
 .nav-list-item:focus {
@@ -133,4 +133,18 @@ address {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--addres-link-color);
+}
+.footer {
+  background-color: var(--list-title-color);
+}
+.somain-title-footer {
+  color: #f4f4fd;
+}
+
+.p-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--title-color);
 }
