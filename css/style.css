@@ -23,7 +23,7 @@ body {
   text-decoration: none;
 }
 .somain-title {
-  color: #2e2f42;
+  color: var(--list-title-color);
 }
 .list {
   list-style: none;
@@ -103,4 +103,31 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--list-title-color);
+}
+.four-section {
+  background-color: #f4f4fd;
+}
+.title-sec-four {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.list-members {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--list-title-color);
+}
+.proffesion-member {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--addres-link-color);
 }
