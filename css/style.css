@@ -115,6 +115,9 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.list-sec-four {
+  background-color: #ffffff;
+}
 .list-members {
   font-weight: 500;
   font-size: 20px;
