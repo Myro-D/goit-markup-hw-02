@@ -7,6 +7,7 @@ body {
   --logo-color: #4d5ae5;
   --nev-list-item-color: #2e2f42;
   --addres-link-color: #434455;
+  --list-title-color: #2e2f42;
 }
 .main-title {
   font-family: "Raleway", sans-serif;
@@ -79,4 +80,18 @@ address {
 .button:hover,
 .button:focus {
   background-color: #404bbf;
+}
+.list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--list-title-color);
+}
+.second-sec-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--addres-link-color);
 }
