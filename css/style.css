@@ -114,6 +114,7 @@ address {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: var(--list-title-color);
 }
 .list-sec-four {
   background-color: #ffffff;
