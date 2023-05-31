@@ -3,6 +3,7 @@
   --logo-color: #4d5ae5;
   --list-title-color: #2e2f42;
   --image-title-color: #2e2f42;
+  --p-color: #f4f4fd;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -54,9 +55,11 @@ address {
   color: #404bbf;
 }
 .list-button {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.04em
   color: var(--logo-color);
   background-color: #f4f4fd;
 }
@@ -92,5 +95,5 @@ address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--title-color);
+  color: var(--p-color);
 }
