@@ -1,13 +1,14 @@
-body {
-  font-family: "Roboto", sans-serif;
-  color: var(--bgc-body);
-}
 :root {
   --color-body: #434455;
   --logo-color: #4d5ae5;
   --list-title-color: #2e2f42;
   --image-title-color: #2e2f42;
 }
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--color-body);
+}
+
 .main-title {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -78,4 +79,18 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-body);
+}
+.footer {
+  background-color: var(--list-title-color);
+}
+.somain-title-footer {
+  color: #f4f4fd;
+}
+
+.p-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--title-color);
 }
