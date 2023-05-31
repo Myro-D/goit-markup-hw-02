@@ -8,6 +8,11 @@ body {
   --addres-link-color: #434455;
   --list-title-color: #2e2f42;
   --title-color: #f4f4fd;
+  --color-body: #434455;
+  --logo-color: #4d5ae5;
+  --list-title-color: #2e2f42;
+  --image-title-color: #2e2f42;
+  --p-color: #f4f4fd;
 }
 .main-title {
   font-family: "Raleway", sans-serif;
@@ -148,4 +153,34 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--title-color);
+}
+
+.list-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-color);
+  background-color: #f4f4fd;
+}
+.list-button:hover,
+.list-button:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+  cursor: pointer;
+}
+.images-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--image-title-color);
+}
+.images-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-body);
 }
