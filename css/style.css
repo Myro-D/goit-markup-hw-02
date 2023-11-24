@@ -14,21 +14,21 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.7;
-  letter-spacing: 3%;
+  letter-spacing: 3px;
   color: #4d5ae5;
 }
 .logo-studio {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.7;
-  letter-spacing: 3%;
+  letter-spacing: 3px;
   color: #2e2f42;
 }
 .nav-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   color: #2e2f42;
 }
 .nav-item:hover,
@@ -38,7 +38,7 @@ body {
 .adress-link {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   color: #434455;
 }
 .adress-link:hover,
@@ -52,7 +52,7 @@ body {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   text-align: center;
   color: #ffffff;
 }
@@ -68,19 +68,19 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 4%;
+  letter-spacing: 4px;
   color: #ffffff;
 }
 .section-two-h-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
 }
 .section-two-p {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
 }
 .section-three {
   background-color: #f4f4fd;
@@ -89,7 +89,7 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   text-align: center;
   color: #2e2f42;
 }
@@ -97,7 +97,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   text-align: center;
   color: #2e2f42;
 }
@@ -105,7 +105,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   text-align: center;
   color: #434455;
 }
@@ -113,7 +113,7 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   text-align: center;
   color: #2e2f42;
 }
@@ -121,13 +121,13 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   color: #2e2f42;
 }
 .section-four-p {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   color: #434455;
 }
 .foter {
@@ -137,12 +137,12 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   color: #f4f4fd;
 }
 .foter-text-p {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 2px;
   color: #f4f4fd;
 }
