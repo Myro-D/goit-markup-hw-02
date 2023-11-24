@@ -11,7 +11,7 @@ body {
   list-style: none;
 }
 .logo-web {
-  font-family: 'Raleway' sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -20,7 +20,7 @@ body {
   color: #4d5ae5;
 }
 .logo-studio {
-  font-family: 'Raleway' sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -148,7 +148,7 @@ body {
   background-color: #2e2f42;
 }
 .logo-studio-foter {
-  font-family: 'Raleway' sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
