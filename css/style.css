@@ -134,6 +134,10 @@ body {
   background-color: #2e2f42;
 }
 .logo-studio-foter {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 2%;
   color: #f4f4fd;
 }
 .foter-text-p {
